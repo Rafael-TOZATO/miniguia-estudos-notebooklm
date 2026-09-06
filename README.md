@@ -1,5 +1,7 @@
 # Acelere sua Aprendizagem com IA: Explore o Poder do NotebookLM
 
+![Branch Protection](https://img.shields.io/badge/branch%20protection-active-success)
+
 ## 1. Contexto e Objetivos
 * **Assunto de Interesse:** Análise de crédito, renegociação de dívidas, saneamento de passivos e estratégias de governança financeira pessoal com foco no mapeamento de empréstimos e financiamentos via Sistema de Informações de Crédito (SCR) do Banco Central do Brasil.
 * **Objetivos de Estudo:**
