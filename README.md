@@ -1,4 +1,6 @@
-# Acelere sua Aprendizagem com IA: Explore o Poder do NotebookLM
+<p align="center">
+  <img src="analise-credito-ia-governanca-banner.png" alt="Análise de Crédito, IA e Governança Banner" width="100%">
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-AI%20Engineer-success?style=for-the-badge&logo=git" alt="Status">
@@ -8,7 +10,14 @@
   <img src="https://img.shields.io/badge/Lean%20Six%20Sigma-Green%20Belt-purple?style=for-the-badge&logo=ercot&logoColor=white" alt="Lean Six Sigma">
 </p>
 
+# Acelere sua Aprendizagem com IA: Explore o Poder do NotebookLM
+
+> **AI Engineer | Especialista em Governança 4.0 e Qualidade | Engenheiro Químico**  
+> [Mauá, SP](mailto:ornelas.tozato@gmail.com) | [LinkedIn](https://www.linkedin.com/in/rafaeltozato81) | [GitHub](https://github.com/Rafael-TOZATO) | [Portfólio PWA](https://tozato-dev-hub.vercel.app) | [Medium](https://medium.com/@ornelas.tozato)
+
 ![Branch Protection](https://img.shields.io/badge/branch%20protection-active-success)
+
+---
 
 ## 1. Contexto e Objetivos
 * **Assunto de Interesse:** Análise de crédito, renegociação de dívidas, saneamento de passivos e estratégias de governança financeira pessoal com foco no mapeamento e rastreabilidade.
@@ -52,3 +61,18 @@ O caderno temático foi construído com base em 4 fontes primárias, unindo dire
 ### Conjunto de Prompts Reutilizáveis
 1. **Prompt de Auditoria de Passivos:** "Análise o histórico de crédito consolidado e aponte eventuais divergências ou contratos pendentes de baixa sistêmica pelas instituições."
 2. **Prompt de Projeção de Recuperação:** "Com base no cronograma de quitação e metas de score, elabore um plano de ação trimestral para blindagem do CPF."
+
+---
+
+## Autor
+
+**Rafael Ornelas Tozato**
+
+Engenharia Química | Garantia da Qualidade | Governança 4.0
+
+### Contato
+
+- LinkedIn: [linkedin.com/in/rafaeltozato81](https://www.linkedin.com/in/rafaeltozato81)
+- GitHub: [github.com/Rafael-TOZATO](https://github.com/Rafael-TOZATO)
+- Medium: [medium.com/@ornelas.tozato](https://medium.com/@ornelas.tozato)
+- DIO: [web.dio.me/users/ornelas_tozato](https://web.dio.me/users/ornelas_tozato)
