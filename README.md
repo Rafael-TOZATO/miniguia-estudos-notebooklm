@@ -17,16 +17,12 @@
 
 ![Branch Protection](https://img.shields.io/badge/branch%20protection-active-success)
 
----
-
 ## 1. Contexto e Objetivos
 * **Assunto de Interesse:** Análise de crédito, renegociação de dívidas, saneamento de passivos e estratégias de governança financeira pessoal com foco no mapeamento e rastreabilidade.
 * **Objetivos de Estudo:**
   1. Explorar o uso de Inteligência Artificial generativa através do NotebookLM como ferramenta de aprendizagem ativa e curadoria de dados financeiros.
   2. Consolidar uma visão sistêmica sobre o endividamento e quitação utilizando relatórios oficiais e métricas de desempenho de portfólio.
   3. Desenvolver competências práticas em engenharia de prompts, análise crítica de fontes institucionais e estruturação de miniguias de estudos aplicados às finanças.
-
----
 
 ## 2. Curadoria de Fontes
 O caderno temático foi construído com base em 4 fontes primárias, unindo diretrizes regulatórias, extratos institucionais do Banco Central e relatórios analíticos de apoio:
@@ -35,8 +31,6 @@ O caderno temático foi construído com base em 4 fontes primárias, unindo dire
 3. **Perguntas e Respostas Institucionais (FAQ SCR):** `fontes/faq_relatorio_emprestimos_scr.pdf`
 4. **Governança Financeira & Carreira 4.0:** `fontes/governanca_financeira_carreira_4_0.pdf`
 
----
-
 ## 3. Engenharia de Prompts e "Cicatrizes"
 * **Perguntas Estratégicas Testadas:**
   * "Com base nos relatórios do SCR e nos dados de controle financeiro anexados, faça uma análise crítica identificando o status de contratos ativos versus quitados."
@@ -44,8 +38,6 @@ O caderno temático foi construído com base em 4 fontes primárias, unindo dire
 * **Dificuldades e Troubleshooting (Cicatrizes):**
   * **Autenticação e Permissões:** Necessidade de validação rigorosa via Conta Gov.br com dupla verificação para liberação de relatórios restritos no Registrato.
   * **Padronização de Nomenclaturas:** Ajuste inicial na limpeza de metadados e remoção de caracteres especiais dos arquivos PDF para assegurar a indexação correta no NotebookLM.
-
----
 
 ## 4. Miniguia de Estudo (Entrega Final)
 
@@ -62,16 +54,29 @@ O caderno temático foi construído com base em 4 fontes primárias, unindo dire
 1. **Prompt de Auditoria de Passivos:** "Análise o histórico de crédito consolidado e aponte eventuais divergências ou contratos pendentes de baixa sistêmica pelas instituições."
 2. **Prompt de Projeção de Recuperação:** "Com base no cronograma de quitação e metas de score, elabore um plano de ação trimestral para blindagem do CPF."
 
----
-
 ## Autor
 
 **Rafael Ornelas Tozato**
 
 Engenharia Química | Garantia da Qualidade | Governança 4.0
 
----
+## 📬 CONTATOS E PERFIS
 
+💻 **PROJETOS E PORTFÓLIOS**
+* Ecossistema de Aplicativos: [tozato-ai-core.vercel.app](https://tozato-ai-core.vercel.app)
+* H-Folio Professional: [h-folio-I0.vercel.app](https://h-folio-I0.vercel.app)
+
+🐙 **CÓDIGOS E REPOSITÓRIOS**
+* GitHub: [github.com/Rafael-TOZATO](https://github.com/Rafael-TOZATO)
+
+✍️ **ARTIGOS E PUBLICAÇÕES**
+* Medium: [medium.com/@ornelas.tozato](https://medium.com/@ornelas.tozato)
+* Comunidade DEV: [dev.to/rafaeltozato](https://dev.to/rafaeltozato)
+
+💼 **CONTATO**
+* LinkedIn: [linkedin.com/in/rafaeltozato81](https://www.linkedin.com/in/rafaeltozato81)
+* E-mail: ornelas.tozato@gmail.com
+  
 ## 📬 Contatos
 
 - 💼 **LinkedIn:** [rafaeltozato81](https://www.linkedin.com/in/rafaeltozato81)
